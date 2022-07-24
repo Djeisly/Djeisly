@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{Djeisly}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{djeisly}/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Djeisly!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
 
@@ -10,14 +10,14 @@
 
 <br>
 
-[![Github](https://img.shields.io/github/followers/Djeisly?label=Follow&style=social)](https://github.com/Djeisly)
+[![Github](https://img.shields.io/github/followers/djeisly?label=Follow&style=social)](https://github.com/djeisly)
 
 
 <h3> Sobre mim: </h3>
 
 - 💖 Aprendendo a Desenvolver APIs RESTfull 
 - 🌱 Interessada em aprender mais sobre Javascript
-- 💬 Soft skills: comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
+- 💬 Soft skills: comunicação eficaz, trabalho em equipe, criatividade.
 - 📫 Para falar comigo: <strong>djeisly@yahoo.com.br</strong></li>  </ul>
 
 <hr>
@@ -34,8 +34,8 @@
 <br>
 
 <div>
-  <a href="https://beacons.ai/Djeisly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djeisly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djeisly&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://beacons.ai/djeisly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djeisly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djeisly&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
