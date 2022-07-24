@@ -1,9 +1,7 @@
-### Olá 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/{djeisly}/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Djeisly!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&multiline=true&width=600&height=150&lines=Olá!+Bem-vinde...+;Sou+a+Djeisly+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;Desenvolvedora+backend.)](https://git.io/typing-svg)
 
 
 - 😄 Pronomes: ... Ela/Dela
