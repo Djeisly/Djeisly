@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Djeisly}/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Djeisly!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
 
